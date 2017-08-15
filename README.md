@@ -19,3 +19,6 @@ Execute:
 
 
 *** Esta versão tem pausas para demonstração, em breve lancarei a versão que instala em apenas uma execução! *** 
+
+
+UPDATE: Removi as pausas!
