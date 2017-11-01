@@ -11,11 +11,11 @@ Instruções:
 
 Dê privilégios:
 
-chmod 777 scriptnagios.sh
+<b>chmod 777 scriptnagios.sh</b>
 
 Execute:
 
-./scriptnagios.sh
+<b>./scriptnagios.sh</b>
 
 
 *** Esta versão tem pausas para demonstração, em breve lancarei a versão que instala em apenas uma execução! *** 
