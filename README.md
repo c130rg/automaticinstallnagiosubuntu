@@ -1,6 +1,6 @@
 # automaticnagiosubuntu
 
-Com este script você pode instalar o Nagios em uma máquina Ubuntu de uma forma rápida e funcional!
+Com este script você pode instalar o Nagios 4.3.2 em uma máquina Ubuntu de uma forma rápida e funcional!
 
 Todos os passos estão escrito no script!
 
