@@ -11,7 +11,7 @@ Instruções:
 
 Dê privilégios:
 
-<b>chmod 777 scriptnagios.sh</b>
+<b>chmod +x scriptnagios.sh</b>
 
 Execute:
 
